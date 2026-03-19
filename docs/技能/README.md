@@ -19,3 +19,9 @@
 - 链接：https://github.com/phuryn/pm-skills
 - 简介：一个面向产品经理场景的 skills marketplace，覆盖 discovery、strategy、execution、launch、growth 等工作流。
 - 适用：Claude Code、Claude Cowork，以及其他支持通用 skill 格式的 AI 助手
+
+### follow-builders
+
+- 链接：https://github.com/zarazhangrui/follow-builders
+- 简介：一个 AI builders digest skill，跟踪 AI builder 在 X 和 YouTube / Podcast 上的内容，并整理成可读摘要。
+- 适用：OpenClaw、Claude Code，以及其他支持 skill 格式的代理工具
