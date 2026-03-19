@@ -16,3 +16,8 @@
 
 - 链接：https://www.figma.com/
 - 简介：协作式界面设计工具，官网当前强调从想法到设计、代码与交付的一体化工作流。
+
+### NotebookLM
+
+- 链接：https://notebooklm.google.com
+- 简介：Google 的 AI 笔记与资料整理工具，适合围绕文档、网页和资料做总结、问答与知识梳理。
