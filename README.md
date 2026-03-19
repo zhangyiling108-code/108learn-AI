@@ -10,6 +10,7 @@
 │   ├── bloggers/
 │   ├── knowledge-points/
 │   ├── roadmap/
+│   ├── skills/
 │   ├── tools/
 │   └── videos/
 └── README.md
