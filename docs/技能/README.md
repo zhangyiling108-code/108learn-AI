@@ -13,3 +13,9 @@
 - 链接：https://github.com/tanweai/pua
 - 简介：一个给 AI 编程代理使用的高能动性 skill，重点是减少放弃、提升主动排查和执行力度。
 - 适用：Codex、Claude Code、Cursor、OpenClaw 等代理式工作流
+
+### pm-skills
+
+- 链接：https://github.com/phuryn/pm-skills
+- 简介：一个面向产品经理场景的 skills marketplace，覆盖 discovery、strategy、execution、launch、growth 等工作流。
+- 适用：Claude Code、Claude Cowork，以及其他支持通用 skill 格式的 AI 助手
