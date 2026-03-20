@@ -12,6 +12,11 @@
 - 链接：https://aistudio.google.com/
 - 简介：Google 的 AI Studio，适合做模型试验、Prompt 调试和 Gemini 相关能力体验。
 
+### Stitch
+
+- 链接：https://stitch.withgoogle.com/
+- 简介：Google 的 Stitch，当前公开标题为 “Stitch - Design with AI”，适合把 AI 用在界面设计和原型生成场景。
+
 ### Figma
 
 - 链接：https://www.figma.com/
@@ -22,7 +27,4 @@
 - 链接：https://notebooklm.google.com
 - 简介：Google 的 AI 笔记与资料整理工具，适合围绕文档、网页和资料做总结、问答与知识梳理。
 
-### Stitch
 
-- 链接：https://stitch.withgoogle.com/
-- 简介：Google 的 Stitch，当前公开标题为 “Stitch - Design with AI”，适合把 AI 用在界面设计和原型生成场景。
