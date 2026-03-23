@@ -27,4 +27,8 @@
 - 链接：https://notebooklm.google.com
 - 简介：Google 的 AI 笔记与资料整理工具，适合围绕文档、网页和资料做总结、问答与知识梳理。
 
+### sub2api
+
+- 链接：https://github.com/Wei-Shaw/sub2api
+- 简介：一个 AI API gateway / relay 工具，用来把订阅型服务能力转换为可调用的 API 入口。
 
