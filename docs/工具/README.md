@@ -32,3 +32,7 @@
 - 链接：https://github.com/Wei-Shaw/sub2api
 - 简介：一个 AI API gateway / relay 工具，用来把订阅型服务能力转换为可调用的 API 入口。
 
+### everything-claude-code
+
+- 链接：https://github.com/affaan-m/everything-claude-code
+- 简介：一个面向 Claude Code、Codex、Cursor 等 agent harness 的性能优化系统，覆盖 skills、memory、security、hooks、rules 与研究型开发工作流。
