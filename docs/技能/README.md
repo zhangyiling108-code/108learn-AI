@@ -31,3 +31,9 @@
 - 链接：https://github.com/public-clis/rdt-cli
 - 简介：一个终端里的 Reddit 浏览工具，仓库当前描述为 “Reddit in your terminal”，可用于阅读 feed、搜索、保存和订阅内容。
 - 备注：它更像 CLI 工具而不是典型 AI skill，这里按你的分类需求暂时归入“技能”
+
+### data-analyst
+
+- 链接：https://github.com/openclaw/skills/tree/main/skills/oyi77/data-analyst
+- 简介：OpenClaw skills 仓库中的 `data-analyst` 子技能，适合沉淀到数据分析方向的 skill 参考清单里。
+- 来源：`openclaw/skills -> skills/oyi77/data-analyst`
