@@ -1,6 +1,8 @@
 # 技能
 
-## 项目
+## 分类
+
+### 通用效率技能
 
 ### baoyu-skills
 
@@ -14,6 +16,8 @@
 - 简介：一个给 AI 编程代理使用的高能动性 skill，重点是减少放弃、提升主动排查和执行力度。
 - 适用：Codex、Claude Code、Cursor、OpenClaw 等代理式工作流
 
+### 角色 / 场景型技能
+
 ### pm-skills
 
 - 链接：https://github.com/phuryn/pm-skills
@@ -25,6 +29,8 @@
 - 链接：https://github.com/zarazhangrui/follow-builders
 - 简介：一个 AI builders digest skill，跟踪 AI builder 在 X 和 YouTube / Podcast 上的内容，并整理成可读摘要。
 - 适用：OpenClaw、Claude Code，以及其他支持 skill 格式的代理工具
+
+### 分析 / 信息处理相关
 
 ### rdt-cli
 

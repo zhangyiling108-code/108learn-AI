@@ -1,12 +1,15 @@
 # OPC
 
-## 项目
+## 分类
+
+### AI 设计 / 产品入口
 
 ### Genspark AI Designer
 
 - 链接：https://www.genspark.ai/ai_designer
 - 简介：Genspark 的 AI Designer 页面，可作为相关产品 / 工作流工具入口记录。
 
+### CLI / 软件桥接能力
 
 ### CLI-Anything: 让所有软件都能被 Agent 驱动
 

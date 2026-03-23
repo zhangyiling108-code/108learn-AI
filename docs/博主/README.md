@@ -1,6 +1,8 @@
 # 博主
 
-## 项目
+## 分类
+
+### Builder 动态 / 信息聚合
 
 ### follow-builders
 
