@@ -25,3 +25,9 @@
 - 链接：https://github.com/zarazhangrui/follow-builders
 - 简介：一个 AI builders digest skill，跟踪 AI builder 在 X 和 YouTube / Podcast 上的内容，并整理成可读摘要。
 - 适用：OpenClaw、Claude Code，以及其他支持 skill 格式的代理工具
+
+### rdt-cli
+
+- 链接：https://github.com/public-clis/rdt-cli
+- 简介：一个终端里的 Reddit 浏览工具，仓库当前描述为 “Reddit in your terminal”，可用于阅读 feed、搜索、保存和订阅内容。
+- 备注：它更像 CLI 工具而不是典型 AI skill，这里按你的分类需求暂时归入“技能”
