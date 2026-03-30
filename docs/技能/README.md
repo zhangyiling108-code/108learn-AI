@@ -30,6 +30,14 @@
 - 简介：一个 AI builders digest skill，跟踪 AI builder 在 X 和 YouTube / Podcast 上的内容，并整理成可读摘要。
 - 适用：OpenClaw、Claude Code，以及其他支持 skill 格式的代理工具
 
+### 联网 / 浏览技能
+
+### web-access
+
+- 链接：https://github.com/eze-is/web-access
+- 简介：一个给 Claude Code 提供完整联网能力的 skill，仓库当前描述为“三层通道调度 + 浏览器 CDP + 并行分治”。
+- 适用：Claude Code，以及需要网页访问与浏览器能力的 agent workflow
+
 ### 分析 / 信息处理相关
 
 ### rdt-cli
