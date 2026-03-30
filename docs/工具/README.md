@@ -42,3 +42,8 @@
 
 - 链接：https://github.com/affaan-m/everything-claude-code
 - 简介：一个面向 Claude Code、Codex、Cursor 等 agent harness 的性能优化系统，覆盖 skills、memory、security、hooks、rules 与研究型开发工作流。
+
+### claude-mem
+
+- 链接：https://github.com/thedotmack/claude-mem
+- 简介：一个 Claude Code 插件 / 记忆系统，会自动记录会话过程、用 AI 压缩上下文，并把相关记忆注入后续会话。
