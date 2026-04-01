@@ -19,6 +19,13 @@
 - 链接：https://www.figma.com/
 - 简介：协作式界面设计工具，官网当前强调 “Make anything possible, all in Figma”，覆盖设计、代码、交付与 AI 工作流。
 
+### 视频 / 动画 / 可编程媒体
+
+### Remotion
+
+- 链接：https://github.com/remotion-dev/remotion
+- 简介：用 React 以编程方式生成视频的框架，仓库描述为 “Make videos programmatically with React”。
+
 ### AI 平台 / 知识工作台
 
 ### Google AI Studio
